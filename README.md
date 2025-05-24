@@ -4,6 +4,25 @@ I'm currently studying Computer Science and Engineering (CSE) at BRAC University
 
 ---
 
+## 🎓 Education
+
+- **BRAC University**  
+  *Bachelor of Science in Computer Science and Engineering*  
+  *September 2022 – Present*  
+  **CGPA:** _[*.**]_
+
+- **Feni Govt. College**  
+  *Higher Secondary Certificate (HSC)*  
+  *2019 – 2021*  
+  **GPA:** _[5.00]_
+
+- **Feni Govt. Girls' High School**  
+  *Secondary School Certificate (SSC)*  
+  *2011 – 2019*  
+  **GPA:** _[5.00]_
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 - **Languages**: Python, JavaScript  
@@ -27,10 +46,11 @@ Check out my pinned repositories for some of the projects I’ve built using Pyt
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/azmari-sultana-a843a0252/) 
-- 📘 [Facebook](https://www.facebook.com/tushmi.ibrahim/) 
-- 📸 [Instagram](https://www.instagram.com/stories/i_yum_tush/)
-- 💻 [LeetCode](https://leetcode.com/u/azmarisultana/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/azmari-sultana-a843a0252/)  
+- 📘 [Facebook](https://www.facebook.com/tushmi.ibrahim/)  
+- 📸 [Instagram](https://www.instagram.com/stories/i_yum_tush/)  
+- 💻 [LeetCode](https://leetcode.com/u/azmarisultana/)  
 - 💌 Email: azmari.sultana47@gmail.com
 
-"Thank you for visiting my profile — always building, always learning!"
+> "Thank you for visiting my profile — always building, always learning!"
+
