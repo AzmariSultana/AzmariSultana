@@ -27,10 +27,10 @@ Check out my pinned repositories for some of the projects I’ve built using Pyt
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/azmari-sultana-a843a0252/))  
-- 📘 [Facebook]([https://www.facebook.com/yourprofile](https://www.facebook.com/tushmi.ibrahim/))  
-- 📸 [Instagram]([https://www.instagram.com/yourprofile](https://www.instagram.com/stories/i_yum_tush/))  
-- 💻 [LeetCode]([https://leetcode.com/yourusername](https://leetcode.com/u/azmarisultana/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azmari-sultana-a843a0252/) 
+- 📘 [Facebook](https://www.facebook.com/tushmi.ibrahim/) 
+- 📸 [Instagram](https://www.instagram.com/stories/i_yum_tush/)
+- 💻 [LeetCode](https://leetcode.com/u/azmarisultana/)
 - 💌 Email: azmari.sultana47@gmail.com
 
 "Thank you for visiting my profile — always building, always learning!"
