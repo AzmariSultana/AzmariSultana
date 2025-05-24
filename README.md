@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm [Azmari Sultana] — CSE Engineer | Cybersecurity Enthusiast
 
-<!--
-**AzmariSultana/AzmariSultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering (CSE) graduate passionate about technology, problem-solving, and building secure, scalable applications. Currently, I'm diving deep into **Cybersecurity** for my thesis, exploring how to protect digital systems from ever-evolving threats.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Skills
+
+- **Languages**: Python, JavaScript  
+- **Backend**: Flask, Express, Node.js  
+- **Frontend**: HTML, CSS  
+- **Database**: MySQL  
+
+---
+
+## 🛡️ Current Focus
+
+Working on my **Cybersecurity thesis**, researching ways to improve security in modern web applications and networks.
+
+---
+
+## 📂 Projects
+
+Check out my pinned repositories for some of the projects I’ve built using Python, Flask, Node.js, and more!
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/azmari-sultana-a843a0252/))  
+- 📘 [Facebook]([https://www.facebook.com/yourprofile](https://www.facebook.com/tushmi.ibrahim/))  
+- 📸 [Instagram]([https://www.instagram.com/yourprofile](https://www.instagram.com/stories/i_yum_tush/))  
+- 💻 [LeetCode]([https://leetcode.com/yourusername](https://leetcode.com/u/azmarisultana/))  
+- 💌 Email: azmari.sultana47@gmail.com
+
+"Thank you for visiting my profile — always building, always learning!"
