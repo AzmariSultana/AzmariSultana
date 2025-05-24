@@ -9,7 +9,7 @@ I'm currently studying Computer Science and Engineering (CSE) at BRAC University
 - **BRAC University**  
   *Bachelor of Science in Computer Science and Engineering*  
   *September 2022 – Present*  
-  **CGPA:** _[*.**]_
+  **CGPA:** _[0.00]_
 
 - **Feni Govt. College**  
   *Higher Secondary Certificate (HSC)*  
