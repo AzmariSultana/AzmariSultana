@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Azmari Sultana] — CSE Engineer | Cybersecurity Enthusiast
+# 👋 Hi, I'm [Azmari Sultana] — Stuck in CSE | Cybersecurity Enthusiast
 
 I'm currently studying Computer Science and Engineering (CSE) at BRAC University, passionate about technology, problem-solving, and building secure, scalable applications. I'm currently diving deep into Cybersecurity for my thesis, exploring how to protect digital systems from ever-evolving threats.
 
