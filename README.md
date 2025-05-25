@@ -40,7 +40,7 @@ Working on my **Cybersecurity thesis**, researching ways to improve security in 
 
 ## 📂 Projects
 
-Check out my pinned repositories for some of the projects I’ve built using Python, Flask, Node.js, and more!
+Check out my pinned repositories for some of the projects I’ve built using Python, Node.js, and more!
 
 ---
 
