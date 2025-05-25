@@ -1,56 +1,65 @@
-# 👋 Hi, I'm [Azmari Sultana] — Stuck in CSE | Cybersecurity Enthusiast
+<h1 align="center">👋 Hi there, I'm <span style="color:#4DB6AC;">Azmari Sultana</span>!</h1>
+<h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3>
 
-I'm currently studying Computer Science and Engineering (CSE) at BRAC University, passionate about technology, problem-solving, and building secure, scalable applications. I'm currently diving deep into Cybersecurity for my thesis, exploring how to protect digital systems from ever-evolving threats.
+---
+
+## 💫 About Me
+
+🎓 Currently pursuing my **B.Sc. in Computer Science and Engineering** at **BRAC University**.  
+🔐 Focused on **Cybersecurity**, aiming to make the digital world a safer place.  
+🛠️ Passionate about building secure, scalable systems and solving real-world problems.  
+📚 Lifelong learner who believes in _"learning by doing"_.
 
 ---
 
 ## 🎓 Education
 
-- **BRAC University**  
-  *Bachelor of Science in Computer Science and Engineering*  
-  *September 2022 – Present*  
-  **CGPA:** _[0.00]_
-
-- **Feni Govt. College**  
-  *Higher Secondary Certificate (HSC)*  
-  *2019 – 2021*  
-  **GPA:** _[5.00]_
-
-- **Feni Govt. Girls' High School**  
-  *Secondary School Certificate (SSC)*  
-  *2011 – 2019*  
-  **GPA:** _[5.00]_
+| 📍 Institution                  | 🎓 Degree/Level                       | 📅 Year         | 🏆 GPA/CGPA |
+|-------------------------------|--------------------------------------|----------------|------------|
+| BRAC University               | B.Sc. in CSE                         | 2022 – Present | `0.00`     |
+| Feni Govt. College            | Higher Secondary Certificate (HSC)  | 2019 – 2021    | `5.00`     |
+| Feni Govt. Girls' High School | Secondary School Certificate (SSC)  | 2011 – 2019    | `5.00`     |
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🧠 Tech Stack & Tools
 
-- **Languages**: Python, JavaScript  
-- **Backend**: Flask, Express, Node.js  
-- **Frontend**: HTML, CSS  
-- **Database**: MySQL  
-
----
-
-## 🛡️ Current Focus
-
-Working on my **Cybersecurity thesis**, researching ways to improve security in modern web applications and networks.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 🔍 Current Focus
 
-Check out my pinned repositories for some of the projects I’ve built using Python, Node.js, and more!
+💻 **Thesis Research**  
+I’m currently exploring **web application security**, focusing on identifying vulnerabilities and building countermeasures to protect users and systems from cyber threats.
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/azmari-sultana-a843a0252/)  
-- 📘 [Facebook](https://www.facebook.com/tushmi.ibrahim/)  
-- 📸 [Instagram](https://www.instagram.com/stories/i_yum_tush/)  
-- 💻 [LeetCode](https://leetcode.com/u/azmarisultana/)  
-- 💌 Email: azmari.sultana47@gmail.com
+📌 Check out my pinned repos on GitHub for Python apps, backend services, and more!
 
-> "Thank you for visiting my profile — always building, always learning!"
+> ✨ *“Secure code is good code. And every bug I squash is a lesson learned.”*
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmari-sultana-a843a0252/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tushmi.ibrahim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stories/i_yum_tush/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/azmarisultana/)
+📧 **Email:** azmari.sultana47@gmail.com
+
+---
+
+<p align="center"><b>✨ Thank you for visiting my profile — always building, always learning! ✨</b></p>
+
 
