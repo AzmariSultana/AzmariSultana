@@ -3,7 +3,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 🎓 Currently pursuing my **B.Sc. in Computer Science and Engineering** at **BRAC University**.  
 🔐 Focused on **Cybersecurity**, aiming to make the digital world a safer place.  
