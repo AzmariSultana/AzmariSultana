@@ -38,7 +38,7 @@
 ## 🔍 Current Focus
 
 💻 **Thesis Research**  
-I’m currently exploring **web application security**, focusing on identifying vulnerabilities and building countermeasures to protect users and systems from cyber threats.
+I'm currently researching and developing techniques to enhance security in modern web applications and networks as part of my undergraduate thesis in Cybersecurity.
 
 ---
 
