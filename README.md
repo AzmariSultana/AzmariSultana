@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Azmari+Sultana!;CSE+Student+%7C+Cybersecurity+Enthusiast+%7C+Explorer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=28&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&width=400&lines=👋+Hi+there%2C+I'm+Azmari+Sultana!;🚀+CSE+Student;🛡️+Cybersecurity+Enthusiast;🔍+Always+Exploring" alt="Typing SVG" />
 </h1>
+
 
 
 
