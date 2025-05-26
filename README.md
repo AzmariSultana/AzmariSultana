@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#4DB6AC;">Azmari Sultana</span>!</h1>
-<h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3>  
+<h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3> 
+
+
 
 ---
 
