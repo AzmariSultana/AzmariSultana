@@ -1,8 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Azmari+Sultana!;CSE+Student+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Exploring+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Azmari+Sultana!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3>  
+<h3 align="center">
+  🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring
+</h3>
+
 
 ---
 
