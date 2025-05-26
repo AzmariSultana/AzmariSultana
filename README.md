@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there%2C+I'm+Azmari+Sultana!&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=4DB6AC" alt="Typing SVG" />
-</p>
-
-
-
-
-
+<h1 align="center">👋 Hi there, I'm <span style="color:#4DB6AC;">Azmari Sultana</span>!</h1>
 <h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3> 
 
 
