@@ -1,11 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Azmari+Sultana!;CSE+Student+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Exploring+%F0%9F%94%8D" alt="Typing SVG" />
-</h1>
-
+<!-- Animated Name Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
-  <b>Welcome to my GitHub!</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=3000&pause=1000&color=40C4FF&center=true&vCenter=true&width=450&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Azmari+Sultana!;%F0%9F%9A%80+CSE+Student;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast;%F0%9F%94%8D+Always+Exploring..." alt="Typing SVG" />
 </p>
+
+<!-- Stylish Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-4DB6AC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%9B%A1%EF%B8%8F-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Exploring%20New%20Tech-red?style=for-the-badge&logo=github" />
+</p>
+
+<!-- Fun Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Cyber gif"/>
+</p>
+
 
 
 ---
