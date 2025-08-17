@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Azmari+Sultana!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 CSE Student | 🛡️ Cybersecurity Enthusiast | 🔍 Always Exploring</h3> 
+<h3 align="center"> CSE Student | Cybersecurity Enthusiast | Always Exploring</h3> 
 
 
 
