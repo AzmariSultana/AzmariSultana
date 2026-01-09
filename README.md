@@ -59,26 +59,6 @@ I'm currently researching and developing techniques to enhance security in moder
 
 ---
 
-# 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzmariSultana&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmariSultana&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzmariSultana&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
