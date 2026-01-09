@@ -39,6 +39,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![8086 Assembly](https://img.shields.io/badge/-8086%20Assembly-2C2C2C?style=flat-square&logo=intel&logoColor=white)
+
 
 ---
 
