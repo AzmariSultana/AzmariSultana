@@ -21,7 +21,7 @@
 
 | 📍 Institution                  | 🎓 Degree/Level                       | 📅 Year         | 🏆 GPA/CGPA |
 |-------------------------------|--------------------------------------|----------------|------------|
-| BRAC University               | B.Sc. in CSE                         | 2022 – Present | `0.00`     |
+| BRAC University               | B.Sc. in CSE                         | 2022 – Present | `N/A`     |
 | Feni Govt. College            | Higher Secondary Certificate (HSC)  | 2019 – 2021    | `5.00`     |
 | Feni Govt. Girls' High School | Secondary School Certificate (SSC)  | 2011 – 2019    | `5.00`     |
 
