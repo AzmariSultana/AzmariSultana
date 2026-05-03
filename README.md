@@ -17,7 +17,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 |  Institution                  |  Degree/Level                       |  Year         |  GPA/CGPA |
 |-------------------------------|--------------------------------------|----------------|------------|
@@ -70,6 +70,6 @@ I'm currently researching and developing techniques to enhance security in moder
 
 ---
 
-<p align="center"><b>✨ Thank you for visiting my profile — always building, always learning! ✨</b></p>
+<p align="center"><b>✨ Thank you for visiting my profile - always building, always learning! ✨</b></p>
 
 
