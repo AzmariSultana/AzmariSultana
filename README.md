@@ -10,16 +10,16 @@
 
 ##  About Me
 
-🎓 Currently pursuing my **B.Sc. in Computer Science and Engineering** at **BRAC University**.  
-🔐 Focused on **Cybersecurity**, aiming to make the digital world a safer place.  
-🛠️ Passionate about building secure, scalable systems and solving real-world problems.  
-📚 Lifelong learner who believes in _"learning by doing"_.
+- Currently pursuing my **B.Sc. in Computer Science and Engineering** at **BRAC University**.  
+- Focused on **Cybersecurity**, aiming to make the digital world a safer place.  
+- Passionate about building secure, scalable systems and solving real-world problems.  
+- Lifelong learner who believes in _"learning by doing"_.
 
 ---
 
 ## 🎓 Education
 
-| 📍 Institution                  | 🎓 Degree/Level                       | 📅 Year         | 🏆 GPA/CGPA |
+|  Institution                  |  Degree/Level                       |  Year         |  GPA/CGPA |
 |-------------------------------|--------------------------------------|----------------|------------|
 | BRAC University               | B.Sc. in CSE                         | 2022 – Present | `N/A`     |
 | Feni Govt. College            | Higher Secondary Certificate (HSC)  | 2019 – 2021    | `5.00`     |
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,28 +44,28 @@
 
 ---
 
-## 🔍 Current Focus
+## Current Focus
 
-💻 **Thesis Research**  
+ **Thesis Research**  
 I'm currently researching and developing techniques to enhance security in modern web applications and networks as part of my undergraduate thesis in Cybersecurity.
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
 📌 Check out my pinned repos on GitHub for Python apps, backend services, and more!
 
-> ✨ *“Secure code is good code. And every bug I squash is a lesson learned.”*
+>  *“Secure code is good code. And every bug I squash is a lesson learned.”*
 
 ---
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmari-sultana-a843a0252/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tushmi.ibrahim/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/azmarisultana/)
-📧 **Email:** azmari.sultana47@gmail.com
+ **Email:** azmari.sultana47@gmail.com
 
 ---
 
