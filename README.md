@@ -29,7 +29,6 @@ I am a Computer Science and Engineering student at BRAC University with a strong
 
 ## Current Focus
 
- **Thesis Research**  
 Conducting undergraduate thesis research on secure and energy-efficient intrusion detection for Edge IoT using Federated Learning and Spiking Neural Networks.
 
 ---
