@@ -15,7 +15,7 @@
 
 ---
 
-Final-year Computer Science and Engineering student at BRAC University, specializing in AI/ML. Experienced across full-stack development, applied machine learning, and systems-level programming, with an undergraduate thesis focused on strengthening security in modern web applications and networks.
+I am a Computer Science and Engineering student at BRAC University with a strong interest in Cybersecurity, Artificial Intelligence, and IoT Security. I enjoy building secure and scalable software solutions while continuously expanding my knowledge through hands-on projects and research.
 
 ### Technical Skills
 
@@ -30,7 +30,7 @@ Final-year Computer Science and Engineering student at BRAC University, speciali
 ## Current Focus
 
  **Thesis Research**  
-I'm currently researching and developing techniques to enhance security in modern web applications and networks as part of my undergraduate thesis.
+Conducting undergraduate thesis research on secure and energy-efficient intrusion detection for Edge IoT using Federated Learning and Spiking Neural Networks.
 
 ---
 
