@@ -53,7 +53,7 @@
 ## Current Focus
 
  **Thesis Research**  
-I'm currently researching and developing techniques to enhance security in modern web applications and networks as part of my undergraduate thesis in Cybersecurity.
+I'm currently researching and developing techniques to enhance security in modern web applications and networks as part of my undergraduate thesis.
 
 ---
 
