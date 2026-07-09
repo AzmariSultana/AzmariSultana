@@ -1,54 +1,31 @@
+<h1 align="center">Azmari Sultana</h1>
+<p align="center">Computer Science and Engineering</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Azmari+Sultana!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/-BRAC%20University-2C2C2C?style=flat-square" alt="BRAC University" />
+  <img src="https://img.shields.io/badge/-Dhaka%2C%20Bangladesh-2C2C2C?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Opportunities-2E7D32?style=flat-square" alt="Open to opportunities" />
 </p>
 
-<h3 align="center"> CSE Student | Cybersecurity Enthusiast | Always Exploring</h3> 
-
-
-
----
-
-##  About Me
-
-- Currently pursuing my **B.Sc. in Computer Science and Engineering** at **BRAC University**.  
-- Focused on **Cybersecurity**, aiming to make the digital world a safer place.  
-- Passionate about building secure, scalable systems and solving real-world problems.  
-- Lifelong learner who believes in _"learning by doing"_.
+<p align="center">
+  <a href="https://www.linkedin.com/in/azmari-sultana-a843a0252/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/azmarisultana/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:azmari.sultana47@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## Education
+Final-year Computer Science and Engineering student at BRAC University, specializing in AI/ML. Experienced across full-stack development, applied machine learning, and systems-level programming, with an undergraduate thesis focused on strengthening security in modern web applications and networks.
 
-|  Institution                  |  Degree/Level                       |  Year         |  GPA/CGPA |
-|-------------------------------|--------------------------------------|----------------|------------|
-| BRAC University               | B.Sc. in CSE                         | 2022 – Present | `N/A`     |
-| Feni Govt. College            | Higher Secondary Certificate (HSC)  | 2019 – 2021    | `5.00`     |
-| Feni Govt. Girls' High School | Secondary School Certificate (SSC)  | 2011 – 2019    | `5.00`     |
+### Technical Skills
 
----
+| Category | Stack |
+|---|---|
+| Languages | Python, C, JavaScript, 8086 Assembly |
+| Backend | Node.js, Express.js, Flask |
+| Frontend | React, HTML5, CSS3 |
+| Databases | MySQL, MongoDB |
 
-## Tech Stack & Tools
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![8086 Assembly](https://img.shields.io/badge/-8086%20Assembly-2C2C2C?style=flat-square&logo=intel&logoColor=white)
-
-**Frameworks & Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Databases & Markup**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-
----
 
 ## Current Focus
 
