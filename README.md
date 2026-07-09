@@ -42,16 +42,8 @@ Conducting undergraduate thesis research on secure and energy-efficient intrusio
 ---
 
 
-##  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmari-sultana-a843a0252/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/azmari.sultana.tushmi/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/azmarisultana/)
 
-📧 **Email:** azmari.sultana47@gmail.com
-
----
-
-<p align="center"><b>✨ Thank you for visiting my profile - always building, always learning! ✨</b></p>
+<p align="center"><b> One commit at a time! 🪄</b></p>
 
 
