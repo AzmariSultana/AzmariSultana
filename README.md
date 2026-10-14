@@ -15,7 +15,7 @@
 
 ---
 
-I am a Computer Science and Engineering student at BRAC University with a strong interest in Cybersecurity, Artificial Intelligence, and IoT Security. I enjoy building secure and scalable software solutions while continuously expanding my knowledge through hands-on projects and research.
+I am a Computer Science and Engineering graduate from BRAC University with a passion for building reliable software and solving real-world problems through technology. I enjoy developing scalable applications, exploring artificial intelligence, and applying software engineering principles to create practical and impactful solutions.
 
 ### Technical Skills
 
@@ -27,9 +27,9 @@ I am a Computer Science and Engineering student at BRAC University with a strong
 | Databases | MySQL, MongoDB |
 
 
-## Current Focus
+## Research
 
-Conducting undergraduate thesis research on secure and energy-efficient intrusion detection for Edge IoT using Federated Learning and Spiking Neural Networks.
+Completed my undergraduate thesis on benchmarking machine learning and neural network models for intrusion detection in centralized and federated Edge IoT environments, with a focus on security, efficiency, and real-world deployment.
 
 ---
 
