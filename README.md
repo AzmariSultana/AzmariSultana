@@ -12,8 +12,8 @@
   <img src="https://api.iconify.design/mdi/map-marker-outline.svg?color=%238B949E" height="16" alt="Location" />
   Dhaka, Bangladesh
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Available" />
-  <b>Available</b>
+  <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Open" />
+  <b>Open</b> to opportunities
 </p>
 
 ---
@@ -99,4 +99,4 @@ Certificate ID: `JnUITS-AIF-BC2007` · [Verify](https://jnuits.org.bd/certificat
 
 ---
 
-<p align="center"><i>Secure code is good code — one commit at a time.</i></p>
+<p align="center"><i>Thanks for stopping by.</i></p>
