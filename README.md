@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=900&height=120&lines=Azmari+Sultana;BRAC+University+%7C+Computer+Science+and+Engineering" alt="Azmari Sultana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,100:7B2FF7&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
 </p>
 
 <p align="center">
