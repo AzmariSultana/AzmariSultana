@@ -32,7 +32,7 @@ Computer Science and Engineering graduate from BRAC University who builds reliab
 
 | Category | Stack |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, C, C++, 8086 Assembly |
+| Languages | Python, TypeScript, JavaScript, C, 8086 Assembly |
 | Frontend | Next.js, React, Tailwind CSS, HTML5, CSS3 |
 | Backend | Node.js, Express.js, Flask, Socket.IO |
 | Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
