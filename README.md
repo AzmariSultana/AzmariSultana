@@ -85,6 +85,11 @@ A machine learning model that assesses software quality metrics, with comprehens
 
 ---
 
+## Achievements
+
+**National Finalist — Brainchild Season 2.0** · *JnU AI & IT Fest 2026, Jagannath University*  
+Selected among the **Top 15 teams nationwide** with *Circuvo*, an AI-powered smart waste management platform combining computer vision, intelligent valuation, and optimized collection workflows, presented to industry experts and judges.  
+Team AzRova · Certificate ID: `JnUITS-AIF-BC2007` · [Verify Certificate]([VERIFICATION_LINK](https://jnuits.org.bd/certificates))
 
 
 
