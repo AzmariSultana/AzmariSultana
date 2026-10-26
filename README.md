@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Brac%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BRAC%20University-30363D?style=flat-square" alt="BRAC University" />
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-30363D?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-238636?style=flat-square" alt="Open to opportunities" />
 </p>
