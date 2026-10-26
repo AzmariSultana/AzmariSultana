@@ -21,15 +21,26 @@ I am a Computer Science and Engineering graduate from BRAC University with a pas
 
 | Category | Stack |
 |---|---|
-| Languages | Python, C, JavaScript, 8086 Assembly |
-| Backend | Node.js, Express.js, Flask |
-| Frontend | React, HTML5, CSS3 |
-| Databases | MySQL, MongoDB |
+| Languages | Python, TypeScript, JavaScript, C, 8086 Assembly |
+| Frontend | Next.js, React, Tailwind CSS, HTML5, CSS3 |
+| Backend | Node.js, Express.js, Flask, Socket.IO |
+| Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
+| Machine Learning | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib |
+| Systems & Embedded | POSIX Threads, Concurrency, Embedded C++, I2C/UART, GSM/GPS Modules |
+| Graphics | OpenGL, PyOpenGL, GLUT |
+| Tools & Services | Git, Gemini API, Cloudinary |
 
 
 ## Research
 
-Completed my undergraduate thesis on benchmarking machine learning and neural network models for intrusion detection in centralized and federated Edge IoT environments, with a focus on security, efficiency, and real-world deployment.
+**A Cross-Architecture Benchmark of Tree-Based and Neural Models for Intrusion Detection in Centralized and Federated Edge IoT Networks**  
+*Undergraduate Thesis · BRAC University*
+
+- Compared Decision Tree, XGBoost, ANN, and SNN across four Edge IoT benchmark datasets
+- Evaluated centralized and federated learning with 15 simulated clients under multiple non-IID settings
+- Analyzed efficiency in terms of energy consumption, model size, and computational complexity
+
+`Federated Learning` `Intrusion Detection` `IoT Security` `XGBoost` `Spiking Neural Networks`
 
 ---
 
