@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9739F,100:F7B2CF&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=5A2340&animation=scaleIn&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B2CF,50:D9739F,100:F7B2CF&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=5A2340&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
 </p>
 
 <p align="center">
