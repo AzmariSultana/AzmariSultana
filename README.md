@@ -37,6 +37,38 @@ Completed my undergraduate thesis on benchmarking machine learning and neural ne
 
 📌 Check out my pinned repos on GitHub for Python apps, backend services, and more!
 
+**[Circuvo — AI-Powered Waste Management Platform](https://circuvo.bmrauf.me)**  
+A full-stack waste management platform with role-based portals, AI-assisted waste classification, real-time bidding, route optimization, secure authentication, and live communication.  
+`Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Gemini API` `Socket.IO`
+
+**[Florazon — E-Commerce Platform](https://github.com/AzmariSultana/Florazon)**  
+A full-featured e-commerce platform with authentication, product filtering, cart management, order tracking, and an admin dashboard with live statistics.  
+`MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` `Cloudinary`
+
+**[Facial Emotion Recognition](https://github.com/AzmariSultana/Facial-Emotion-Recognizer)**  
+A ResNet-34 model with a spatial attention module, trained on AffectNet and fine-tuned on FER2013, with rich visualisations and single-image inference.  
+`Python` `PyTorch` `ResNet-34` `Spatial Attention`
+
+**[Smart Bike Security & Tamper Detection](https://github.com/AzmariSultana/Smart-Bike-Security-and-Tamper-Detection-System)**  
+A low-power anti-theft system that uses sensor fusion to distinguish bumps from tampering, with sub-100 ms GSM alerts, live Google Maps tracking, and EEPROM event logging.  
+`Embedded C++` `ADXL345` `SIM800L GSM` `NEO-6M GPS` `I2C/UART`
+
+**[Multithreaded Process Manager Simulator](https://github.com/AzmariSultana/Multithreaded-Process-Manager-Simulator)**  
+A concurrent, thread-safe OS process-manager simulator supporting fork, exit, wait, and kill, with a non-polling monitor thread for real-time state snapshots.  
+`C` `POSIX Threads` `Mutex Locks` `Condition Variables`
+
+**[Local Event Booking System](https://github.com/AzmariSultana/Local-Event-Booking-System)**  
+A menu-driven ticket booking system with multi-category events, cart management, ticket modification and cancellation, itemised billing with discounts, and a password-protected admin mode.  
+`Intel 8086 Assembly`
+
+**[Football Mania](https://github.com/AzmariSultana/Football-Mania)**  
+A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
+`Python` `PyOpenGL` `GLUT` `OpenGL Shading`
+
+**[Software Quality Checker](https://github.com/AzmariSultana/Software-Quality-Checker)**  
+A machine learning model that assesses software quality metrics, with comprehensive data visualisation.  
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
 >  *“Secure code is good code. And every bug I squash is a lesson learned.”*
 
 ---
