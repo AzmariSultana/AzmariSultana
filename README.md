@@ -15,7 +15,7 @@
   <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Available" />
   <b>Available</b> 
 </p>
----
+
 
 I am a Computer Science and Engineering graduate from BRAC University with a passion for building reliable software and solving real-world problems through technology. I enjoy developing scalable applications, exploring artificial intelligence, and applying software engineering principles to create practical and impactful solutions.
 
