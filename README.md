@@ -13,7 +13,7 @@
   Dhaka, Bangladesh
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Available" />
-  <b>Available</b> for Software Engineering Roles
+  <b>Available</b>
 </p>
 
 ---
