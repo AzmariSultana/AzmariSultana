@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8E3A63,100:0D1117&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=F7B2CF&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B2CF,50:D9739F,100:F7B2CF&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=5A2340&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117%2C50:8E3A63%2C100:0D1117&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=F7B2CF&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B2CF%2C50:D9739F%2C100:F7B2CF&height=200&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=5A2340&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
   </picture>
 </p>
 
