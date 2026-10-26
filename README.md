@@ -35,13 +35,12 @@ Completed my undergraduate thesis on benchmarking machine learning and neural ne
 
 ##  Projects
 
-📌 Check out my pinned repos on GitHub for Python apps, backend services, and more!
 
-**[Circuvo — AI-Powered Waste Management Platform](https://circuvo.bmrauf.me)**  
+**[Circuvo](https://circuvo.bmrauf.me)**  
 A full-stack waste management platform with role-based portals, AI-assisted waste classification, real-time bidding, route optimization, secure authentication, and live communication.  
 `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Gemini API` `Socket.IO`
 
-**[Florazon — E-Commerce Platform](https://github.com/AzmariSultana/Florazon)**  
+**[Florazon](https://github.com/AzmariSultana/Florazon)**  
 A full-featured e-commerce platform with authentication, product filtering, cart management, order tracking, and an admin dashboard with live statistics.  
 `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` `Cloudinary`
 
