@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-30363D?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-238636?style=flat-square" alt="Open to opportunities" />
+  <code>Dhaka, Bangladesh</code>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Open to Software Engineering Opportunities</code>
 </p>
 
 <p align="center">
