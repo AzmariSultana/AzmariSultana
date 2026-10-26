@@ -1,25 +1,17 @@
-<h1 align="center">Azmari Sultana</h1>
-
 <p align="center">
-  <a href="https://github.com/AzmariSultana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+and+Engineering+Graduate;Full-Stack+Software+Developer;Machine+Learning+and+IoT+Security+Researcher;Building+Reliable+and+Scalable+Software" alt="Typing animation" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BRAC%20University-B.Sc.%20in%20CSE-24292F?style=for-the-badge" alt="BRAC University" />
-  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-24292F?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2E7D32?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/BRAC%20University-30363D?style=flat-square" alt="BRAC University" />
+  <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-30363D?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-238636?style=flat-square" alt="Open to opportunities" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azmari-sultana-a843a0252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/azmarisultana/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:azmari.sultana47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzmariSultana&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/azmari-sultana-a843a0252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/azmarisultana/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:azmari.sultana47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
