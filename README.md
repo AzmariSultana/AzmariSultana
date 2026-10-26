@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Brac%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Azmari%20Sultana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=BRAC%20University%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=56" alt="Azmari Sultana" />
 </p>
 
 <p align="center">
@@ -13,17 +13,22 @@
   Dhaka, Bangladesh
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Available" />
-  <b>Available</b> 
+  <b>Available</b> for Software Engineering Roles
 </p>
 
+---
 
-I am a Computer Science and Engineering graduate from BRAC University with a passion for building reliable software and solving real-world problems through technology. I enjoy developing scalable applications, exploring artificial intelligence, and applying software engineering principles to create practical and impactful solutions.
+## About Me
 
-### Technical Skills
+Computer Science and Engineering graduate from BRAC University who builds reliable, scalable software for real-world problems. My work spans full-stack development, machine learning, systems programming, and embedded systems, with a research focus on intrusion detection for Edge IoT networks.
+
+---
+
+## Technical Skills
 
 | Category | Stack |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, C, 8086 Assembly |
+| Languages | Python, TypeScript, JavaScript, C, C++, 8086 Assembly |
 | Frontend | Next.js, React, Tailwind CSS, HTML5, CSS3 |
 | Backend | Node.js, Express.js, Flask, Socket.IO |
 | Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
@@ -32,22 +37,9 @@ I am a Computer Science and Engineering graduate from BRAC University with a pas
 | Graphics | OpenGL, PyOpenGL, GLUT |
 | Tools & Services | Git, Gemini API, Cloudinary |
 
-
-## Research
-
-**A Cross-Architecture Benchmark of Tree-Based and Neural Models for Intrusion Detection in Centralized and Federated Edge IoT Networks**  
-*Undergraduate Thesis · BRAC University*
-
-- Compared Decision Tree, XGBoost, ANN, and SNN across four Edge IoT benchmark datasets
-- Evaluated centralized and federated learning with 15 simulated clients under multiple non-IID settings
-- Analyzed efficiency in terms of energy consumption, model size, and computational complexity
-
-`Federated Learning` `Intrusion Detection` `IoT Security` `XGBoost` `Spiking Neural Networks`
-
 ---
 
-##  Projects
-
+## Projects
 
 **[Circuvo](https://circuvo.bmrauf.me)**  
 A full-stack waste management platform with role-based portals, AI-assisted waste classification, real-time bidding, route optimization, secure authentication, and live communication.  
@@ -81,7 +73,18 @@ A 3D interactive football game with dynamic daylight, zone-based scoring, a wall
 A machine learning model that assesses software quality metrics, with comprehensive data visualisation.  
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
->  *“Secure code is good code. And every bug I squash is a lesson learned.”*
+---
+
+## Research
+
+**A Cross-Architecture Benchmark of Tree-Based and Neural Models for Intrusion Detection in Centralized and Federated Edge IoT Networks**  
+*Undergraduate Thesis · BRAC University*
+
+- Compared Decision Tree, XGBoost, ANN, and SNN across four Edge IoT benchmark datasets
+- Evaluated centralized and federated learning with 15 simulated clients under multiple non-IID settings
+- Analyzed efficiency in terms of energy consumption, model size, and computational complexity
+
+`Federated Learning` `Intrusion Detection` `IoT Security` `XGBoost` `Spiking Neural Networks`
 
 ---
 
@@ -94,7 +97,6 @@ Selected among the Top 15 teams nationwide for *Circuvo*, an AI-powered smart wa
 
 Certificate ID: `JnUITS-AIF-BC2007` · [Verify](https://jnuits.org.bd/certificates)
 
+---
 
-<p align="center"><b> One commit at a time! 🪄</b></p>
-
-
+<p align="center"><i>Secure code is good code — one commit at a time.</i></p>
