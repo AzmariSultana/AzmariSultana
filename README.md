@@ -13,7 +13,7 @@
   Dhaka, Bangladesh
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/mdi/circle.svg?color=%232EA043" height="11" alt="Open" />
-  <b>Open</b> to opportunities
+  <b>Open</b> to Opportunities
 </p>
 
 ---
