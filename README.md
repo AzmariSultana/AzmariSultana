@@ -57,6 +57,10 @@ A full-featured e-commerce platform with authentication, product filtering, cart
 A ResNet-34 model with a spatial attention module, trained on AffectNet and fine-tuned on FER2013, with rich visualisations and single-image inference.  
 `Python` `PyTorch` `ResNet-34` `Spatial Attention`
 
+**[Football Mania](https://azmarisultana.github.io/Football-Mania)**  
+A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
+`Python` `PyOpenGL` `GLUT` `OpenGL Shading`
+
 **[Smart Bike Security & Tamper Detection](https://github.com/AzmariSultana/Smart-Bike-Security-and-Tamper-Detection-System)**  
 A low-power anti-theft system that uses sensor fusion to distinguish bumps from tampering, with sub-100 ms GSM alerts, live Google Maps tracking, and EEPROM event logging.  
 `Embedded C++` `ADXL345` `SIM800L GSM` `NEO-6M GPS` `I2C/UART`
@@ -68,10 +72,6 @@ A concurrent, thread-safe OS process-manager simulator supporting fork, exit, wa
 **[Local Event Booking System](https://github.com/AzmariSultana/Local-Event-Booking-System)**  
 A menu-driven ticket booking system with multi-category events, cart management, ticket modification and cancellation, itemised billing with discounts, and a password-protected admin mode.  
 `Intel 8086 Assembly`
-
-**[Football Mania](https://azmarisultana.github.io/Football-Mania)**  
-A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
-`Python` `PyOpenGL` `GLUT` `OpenGL Shading`
 
 **[Software Quality Checker](https://github.com/AzmariSultana/Software-Quality-Checker)**  
 A machine learning model that assesses software quality metrics, with comprehensive data visualisation.  
