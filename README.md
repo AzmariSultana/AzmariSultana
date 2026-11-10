@@ -45,7 +45,7 @@ Computer Science and Engineering graduate from BRAC University who builds reliab
 
 ## Projects
 
-**[Circuvo](https://circuvo.bmrauf.me)**  
+**[Circuvo](https://circuvo-azrova.vercel.app)**  
 A full-stack waste management platform with role-based portals, AI-assisted waste classification, real-time bidding, route optimization, secure authentication, and live communication.  
 `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Gemini API` `Socket.IO`
 
