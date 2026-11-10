@@ -57,6 +57,10 @@ A full-featured e-commerce platform with authentication, product filtering, cart
 A ResNet-34 model with a spatial attention module, trained on AffectNet and fine-tuned on FER2013, with rich visualisations and single-image inference.  
 `Python` `PyTorch` `ResNet-34` `Spatial Attention`
 
+**[7UP VS FreeKick](https://7up-vs-free-kick.vercel.app/)**  
+A browser-based 3D football arcade game featuring one-on-one matches inspired by the Brazil–Argentina rivalry. Includes local and online multiplayer, AI opponents, responsive controls, and cross-platform gameplay for desktop and mobile browsers.  
+`JavaScript` `Three.js` `WebGL` `Node.js` `Express.js` `WebSocket` `HTML5` `CSS3`
+
 **[Football Mania](https://azmarisultana.github.io/Football-Mania)**  
 A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
 `Python` `PyOpenGL` `GLUT` `OpenGL Shading`
