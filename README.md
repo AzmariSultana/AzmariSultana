@@ -69,7 +69,7 @@ A concurrent, thread-safe OS process-manager simulator supporting fork, exit, wa
 A menu-driven ticket booking system with multi-category events, cart management, ticket modification and cancellation, itemised billing with discounts, and a password-protected admin mode.  
 `Intel 8086 Assembly`
 
-**[Football Mania]([https://github.com/AzmariSultana/Football-Mania](https://azmarisultana.github.io/Football-Mania/))**  
+**[Football Mania](https://azmarisultana.github.io/Football-Mania)**  
 A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
 `Python` `PyOpenGL` `GLUT` `OpenGL Shading`
 
