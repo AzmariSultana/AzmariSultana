@@ -49,7 +49,7 @@ Computer Science and Engineering graduate from BRAC University who builds reliab
 A full-stack waste management platform with role-based portals, AI-assisted waste classification, real-time bidding, route optimization, secure authentication, and live communication.  
 `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Gemini API` `Socket.IO`
 
-**[Florazon](https://github.com/AzmariSultana/Florazon)**  
+**[Florazon](https://florazon.vercel.app)**  
 A full-featured e-commerce platform with authentication, product filtering, cart management, order tracking, and an admin dashboard with live statistics.  
 `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` `Cloudinary`
 
@@ -69,7 +69,7 @@ A concurrent, thread-safe OS process-manager simulator supporting fork, exit, wa
 A menu-driven ticket booking system with multi-category events, cart management, ticket modification and cancellation, itemised billing with discounts, and a password-protected admin mode.  
 `Intel 8086 Assembly`
 
-**[Football Mania](https://github.com/AzmariSultana/Football-Mania)**  
+**[Football Mania]([https://github.com/AzmariSultana/Football-Mania](https://azmarisultana.github.io/Football-Mania/))**  
 A 3D interactive football game with dynamic daylight, zone-based scoring, a wall of defenders, zoom mechanics, and a countdown timer.  
 `Python` `PyOpenGL` `GLUT` `OpenGL Shading`
 
